@@ -6,7 +6,7 @@ import Cart from './components2/Cart';
 import Contact from './components2/Contact';
 import Footer from './components2/Footer';
 import Home from './components2/Home';
-import Navbar2 from './components2/Navbar2';
+// import Navbar2 from './components2/Navbar2';
 import Shop from './components2/Shop';
 import Sproduct from './components2/Sproduct';
 import './components2/style3.css';
